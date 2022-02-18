@@ -1,2 +1,2 @@
-# Extracting Data From Veterinary Invoices using OCR 🐶
-This repository contains the functionality to recognize table entities from veterinary invoice images and extract that data to a CSV file.
+# Extracting Credit Card Numbers from Images 💳
+This repository contains the functionality to extract credit card numbers from images of credit cards.
